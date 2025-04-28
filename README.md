@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jozicode, Jo for everyone on this Planet;
-- 👀 I’m interested in web developing;
+- 👀 I’m interested in Web Development;
 - 🌱 I’m currently learning fundamentals of HMTL, CSS, Javascript;
-- 💼 I'm looking for a career in Web Development;
+- 💼 I'm looking for a career as Full Stack Developer;
 
 <!---
 jozicode/jozicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
